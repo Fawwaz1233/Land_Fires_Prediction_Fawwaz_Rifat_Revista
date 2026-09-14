@@ -1,0 +1,2 @@
+URL Dataset = https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/data?select=test
+URL Model = https://drive.google.com/drive/folders/107B3VM1MDf72lQLVBq1QsbzNIATV_yW5?usp=sharing
